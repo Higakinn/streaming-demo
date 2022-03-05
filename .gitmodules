@@ -1,0 +1,3 @@
+[submodule "node-streaming-server"]
+	path = node-streaming-server
+	url = https://github.com/hgaiji/node-streaming-server.git
